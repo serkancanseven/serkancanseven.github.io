@@ -1,5 +1,4 @@
 html {
-  box-sizing: border-box;
   height: 100vh;
 }
 
@@ -11,4 +10,8 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+}
+
+img {
+  max-width: 90%;
 }
